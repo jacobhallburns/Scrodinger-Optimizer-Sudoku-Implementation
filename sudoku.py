@@ -1,5 +1,5 @@
 """
-File: sudoku_SRA.py
+File: sudoku.py
 Author: Jacob Hall-Burns
 Description: Scrodinger Optimizer (SRA) applied to Sudoku as a combinatorial metaheuristic,
 based directly on:
